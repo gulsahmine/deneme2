@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.exe
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.deps.json
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.runtimeconfig.json
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.dll
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\ref\calısma3.dll
+C:\Users\Toshiba\Desktop\deneme\calısma3\bin\Debug\net5.0\calısma3.pdb
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.dll
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\ref\calısma3.dll
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.pdb
+C:\Users\Toshiba\Desktop\deneme\calısma3\obj\Debug\net5.0\calısma3.genruntimeconfig.cache
